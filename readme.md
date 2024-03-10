@@ -21,10 +21,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Deploying my old projects
 - Dynamic web applications
-- My CSS skill
+- Building projects with JSP and Servlets
+- Java based projects
 
 ## 🌱 I'm currently learning
 
